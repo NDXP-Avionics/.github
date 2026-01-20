@@ -1,3 +1,4 @@
+<!--
 ## ⚡️ Notre Dame Experimental Propulsion Avionics Team ⚡️
 
 ### As NDXP works to fire the university's first ever liquid fueled rocket, the avionics team is responsible for providing:
@@ -11,3 +12,5 @@
   <p>Our systems fire the Engine</p>
 - Robust Communication 📡
   <p>We provide real-time metrics at a distance.</p>
+
+  -->
